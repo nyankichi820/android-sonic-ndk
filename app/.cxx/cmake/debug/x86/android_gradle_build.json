@@ -1,0 +1,47 @@
+{
+  "stringTable": {
+    "0": "/Users/masafumi/Documents/android-sonic-ndk/app/.cxx/cmake/debug/x86",
+    "1": "--target=i686-none-linux-android21 --gcc-toolchain=/Users/masafumi/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/masafumi/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsonic_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -Wall -Wno-unused-function -O3 -ansi -fPIC -pthread -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/masafumi/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/Users/masafumi/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/masafumi/Documents/android-sonic-ndk/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/masafumi/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/masafumi/Documents/android-sonic-ndk/app/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/masafumi/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/masafumi/Documents/android-sonic-ndk/app/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "sonic-Debug-x86": {
+      "buildCommand": "/Users/masafumi/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/masafumi/Documents/android-sonic-ndk/app/.cxx/cmake/debug/x86\" sonic",
+      "buildType": "debug",
+      "toolchain": "2696467900",
+      "abi": "x86",
+      "artifactName": "sonic",
+      "files": [
+        {
+          "src": "/Users/masafumi/Documents/android-sonic-ndk/app/src/main/cpp/sonicjni.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/masafumi/Documents/android-sonic-ndk/app/src/main/cpp/sonic.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/masafumi/Documents/android-sonic-ndk/app/build/intermediates/cmake/debug/obj/x86/libsonic.so"
+    }
+  },
+  "toolchains": {
+    "2696467900": {
+      "cCompilerExecutable": "/Users/masafumi/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

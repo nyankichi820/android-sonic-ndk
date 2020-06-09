@@ -1,0 +1,8 @@
+ninja: Entering directory `/Users/masafumi/Documents/android-sonic-ndk/app/.cxx/cmake/debug/arm64-v8a'
+[1/3] Building C object CMakeFiles/sonic.dir/sonicjni.c.o
+/Users/masafumi/Documents/android-sonic-ndk/app/src/main/cpp/sonicjni.c:15:1: warning: // comments are not allowed in this language [-Wcomment]
+// For debug messages:
+^
+1 warning generated.
+[2/3] Building C object CMakeFiles/sonic.dir/sonic.c.o
+[3/3] Linking C shared library /Users/masafumi/Documents/android-sonic-ndk/app/build/intermediates/cmake/debug/obj/arm64-v8a/libsonic.so

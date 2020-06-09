@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/Users/masafumi/Documents/android-sonic-ndk/app/.cxx/cmake/debug/x86_64",
+  "command": "/Users/masafumi/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/masafumi/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/masafumi/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsonic_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -Wno-unused-function -O3 -ansi -fPIC -pthread -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/sonic.dir/sonicjni.c.o   -c /Users/masafumi/Documents/android-sonic-ndk/app/src/main/cpp/sonicjni.c",
+  "file": "/Users/masafumi/Documents/android-sonic-ndk/app/src/main/cpp/sonicjni.c"
+},
+
+{
+  "directory": "/Users/masafumi/Documents/android-sonic-ndk/app/.cxx/cmake/debug/x86_64",
+  "command": "/Users/masafumi/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/masafumi/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/masafumi/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dsonic_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -Wall -Wno-unused-function -O3 -ansi -fPIC -pthread -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/sonic.dir/sonic.c.o   -c /Users/masafumi/Documents/android-sonic-ndk/app/src/main/cpp/sonic.c",
+  "file": "/Users/masafumi/Documents/android-sonic-ndk/app/src/main/cpp/sonic.c"
+}
+]
