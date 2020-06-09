@@ -1,5 +1,5 @@
 *.iml
-/app/.cxx/
+.cxx
 .gradle
 .java-version
 /local.properties

@@ -1,4 +1,0 @@
-# ninja log v5
-0	63	1591663512	CMakeFiles/sonic.dir/sonicjni.c.o	689317268b2f64f3
-1	94	1591663512	CMakeFiles/sonic.dir/sonic.c.o	33fa79c96bc5e2e2
-94	145	1591663512	/Users/masafumi/Documents/android-sonic-ndk/app/build/intermediates/cmake/debug/obj/x86_64/libsonic.so	95e40925f6a36a3e
